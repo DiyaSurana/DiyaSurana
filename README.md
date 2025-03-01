@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="C:\Users\Elitebook 830 G7\OneDrive\Pictures\Saved Pictures\1722852771796.jpeg" alt="Your Masthead" width="100%">
-</p>
 <h1 align="center">👋Hey folks, welcome to my data-driven world! 🌍📊, I'm Diya Jain</h1>
 <h3 align="center">A passionate 📊 Data & Business Analyst skilled in Python, SQL, Excel, Tableau, Looker Studio & Power BI. Passionate about transforming data into actionable insights through analytics, visualization, and storytelling. Strong communication skills to bridge data and business strategy. Seeking opportunities to drive data-driven decision-making and business growth. Let’s connect! 🚀</h3>
 
