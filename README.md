@@ -2,11 +2,13 @@
 <h1 align="center">👋Hey folks,welcome to my data-driven world!🌍📊, I'm Diya Jain</h1>
 <h3 align="center">A passionate 📊 Data & Business Analyst skilled in Python, SQL, Excel, Tableau, Looker Studio & Power BI. Passionate about transforming data into actionable insights through analytics, visualization, and storytelling. Strong communication skills to bridge data and business strategy. Seeking opportunities to drive data-driven decision-making and business growth. Let’s connect! 🚀</h3>
 
+
 - 👨‍💻 All of my projects are available at [https://peerlist.io/jaindiya](https://peerlist.io/jaindiya)
 
 - 💬 Ask me about **Python,SQL,Excel,PowerBi,LookerStudio,ChatGPT**
 
 - 📫 How to reach me **jain.diya1002@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
