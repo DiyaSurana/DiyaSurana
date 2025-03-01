@@ -1,6 +1,7 @@
 ![Image](https://github.com/user-attachments/assets/595cd083-8f87-4f95-b470-a2759ca57c06)
 <h1 align="center">👋Hey folks, welcome to my data-driven world! 🌍📊, I'm Diya Jain</h1>
 <h3 align="center">A passionate 📊 Data & Business Analyst skilled in Python, SQL, Excel, Tableau, Looker Studio & Power BI. Passionate about transforming data into actionable insights through analytics, visualization, and storytelling. Strong communication skills to bridge data and business strategy. Seeking opportunities to drive data-driven decision-making and business growth. Let’s connect! 🚀</h3>
+(img align="right" alt="Coding" width="400" src="![Image](https://github.com/user-attachments/assets/605db047-2dae-4c9c-860c-e068753dc30a)")
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diyasurana" alt="diyasurana" /></a> </p>
 
